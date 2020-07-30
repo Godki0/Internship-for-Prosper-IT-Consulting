@@ -1,4 +1,4 @@
-# Live_Projects
-Live projects
+# Internship for Prosper IT Consulting
+Internship for Prosper IT Consulting
 
 I worked on two live projects one used python and the other used c#. Both projects used azure to work with the team and had daily stand-ups. Now time to explain each project. The first project used python language and had me create a app to be part of the current app. I had to choose the topic and use django to set it up. I created a app about video games and used a api to show stats on current players, number of players in a game. The next part was a section about current articles about games and is always updating with new information. I added a section where you could add a game to the database as well. The second game was to work as a team to fixe or alter parts of the pages on a website for a movie company. I had one story where I had to fix a hover effect and had to go in and use chrome tools to help pin point the issue and resolve it. The second story I did was find the reason to a duplicating seed when the apps run. The project used mvc so I had to find the location of where it was happening and ifx the issue which was that the previous person was generating the names but was going off of the Id but never assigned a Id to the names. 
